@@ -22,7 +22,7 @@ To run this game on your local machine, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/alien-invasion-game.git
+    git clone https://github.com/hieule1704/alien-invasion-game.git
     cd alien-invasion-game
     ```
 
